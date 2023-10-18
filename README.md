@@ -1,2 +1,3 @@
 # SNU-Database
-### Mysql DB designed by python
+
+Mysql DB designed by python
